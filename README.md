@@ -39,6 +39,7 @@ bitespeed-identity/
 
 │
 ├── prisma/
+
 │   ├── schema.prisma
 
 │   └── migrations/
@@ -78,8 +79,11 @@ bitespeed-identity/
 └── README.md
 
 **⚙️ Setup Instructions (Local)**
+
 **1️⃣ Clone Repository**
+
 git clone https://github.com/PavanKumarM761942/bitespeed-identity.git
+
 cd bitespeed-identity
 **2️⃣ Install Dependencies**
 npm install
