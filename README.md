@@ -41,11 +41,17 @@ bitespeed-identity/
 ├── prisma/
 
 │   ├── schema.prisma
+
 │   └── migrations/
+
 │
+
 ├── src/
+
 │   ├── controllers/
+
 │   │   └── identify.controller.ts
+
 │   │
 │   ├── services/
 │   │   └── contact.service.ts
