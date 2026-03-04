@@ -85,15 +85,21 @@ bitespeed-identity/
 git clone https://github.com/PavanKumarM761942/bitespeed-identity.git
 
 cd bitespeed-identity
+
 **2️⃣ Install Dependencies**
+
 npm install
+
 **3️⃣ Setup Environment Variables**
 
 Create a .env file:
 
 DATABASE_URL="mysql://root:password@localhost:3306/bitespeed"
+
 4️⃣** Run Prisma Migration**
+
 npx prisma migrate dev
+
 **5️⃣ Start Server**
 
 Development mode:
@@ -103,14 +109,19 @@ npm run dev
 Production build:
 
 npm run build
-npm start**
-📡 API Endpoint**
+
+npm start
+
+**📡 API Endpoint**
+
 **POST /identify**
+
 Request Body
 {
   "email": "user@example.com",
   "phoneNumber": "1234567890"
 }
+
 Response Format
 {
   "contact": {
@@ -120,6 +131,7 @@ Response Format
     "secondaryContactIds": []
   }
 }
+
 **🗄 Database Schema (Prisma)
 **
 Main model:
