@@ -34,9 +34,12 @@ MySQL
 Railway (Deployment)
 
 **📂 Project Structure**
+
 bitespeed-identity/
+
 │
 ├── prisma/
+
 │   ├── schema.prisma
 │   └── migrations/
 │
