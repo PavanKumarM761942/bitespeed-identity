@@ -39,9 +39,7 @@ bitespeed-identity/
 
 │
 ├── prisma/
-
 │   ├── schema.prisma
-
 │   └── migrations/
 
 │
