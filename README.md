@@ -96,7 +96,7 @@ Create a .env file:
 
 DATABASE_URL="mysql://root:password@localhost:3306/bitespeed"
 
-4️⃣** Run Prisma Migration**
+**4️⃣ Run Prisma Migration**
 
 npx prisma migrate dev
 
@@ -132,8 +132,7 @@ Response Format
   }
 }
 
-**🗄 Database Schema (Prisma)
-**
+**🗄 Database Schema (Prisma)**
 
 Main model:
 
@@ -163,8 +162,7 @@ Environment variables configured
 
 prisma migrate deploy used for production schema sync
 
-**🔥 Key Features
-**
+**🔥 Key Features**
 
 Identity reconciliation logic
 
