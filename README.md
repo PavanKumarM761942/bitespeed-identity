@@ -1,4 +1,4 @@
-** Bitespeed Identity Reconciliation API**
+**Bitespeed Identity Reconciliation API**
 
 A backend service built with Node.js, Express, TypeScript, Prisma, and MySQL that identifies and reconciles customer contacts based on email and phone number.
 
