@@ -134,6 +134,7 @@ Response Format
 
 **🗄 Database Schema (Prisma)
 **
+
 Main model:
 
 id
@@ -164,6 +165,7 @@ prisma migrate deploy used for production schema sync
 
 **🔥 Key Features
 **
+
 Identity reconciliation logic
 
 Primary & Secondary contact linking
