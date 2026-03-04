@@ -53,18 +53,31 @@ bitespeed-identity/
 │   │   └── identify.controller.ts
 
 │   │
+
 │   ├── services/
+
 │   │   └── contact.service.ts
+
 │   │
+
 │   ├── routes/
+
 │   │   └── identify.routes.ts
+
 │   │
+
 │   ├── app.ts
+
 │   └── server.ts
+
 │
+
 ├── package.json
+
 ├── tsconfig.json
+
 └── README.md
+
 **⚙️ Setup Instructions (Local)**
 **1️⃣ Clone Repository**
 git clone https://github.com/PavanKumarM761942/bitespeed-identity.git
